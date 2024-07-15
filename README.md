@@ -1,7 +1,8 @@
 # SnapUGC_Engagement
 Delving deep into Engagement Prediction of Short Videos (ECCV 2024)
 
-<center><img src="figures/distributions.png "width="90%"></center>
+Several sample frames of short-form videos dataset:
+<center><img src="figures/samples.png "width="90%"></center>
 
 **Abstract**: Understanding and modeling the popularity of User Generated Content (UGC) short videos on social media platforms presents a critical challenge with broad implications for content creators and recommendation systems. This study delves deep into the intricacies of predicting engagement for newly published videos with limited user interactions. Surprisingly, our findings reveal that Mean Opinion Scores from previous video quality assessment datasets do not strongly correlate with video engagement levels.
 To address this, we introduce a substantial dataset comprising 90,000 real-world UGC short videos from Snapchat. 
@@ -11,6 +12,7 @@ Comprehensive multi-modal features, including visual content, background music, 
 **Keywords**: Engagement Prediction, Short-form Videos
 
 
+<center><img src="figures/distributions.png "width="90%"></center>
 
 ### Citation
 If our work is useful for your research, please consider citing:
