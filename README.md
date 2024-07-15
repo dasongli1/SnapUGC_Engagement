@@ -2,7 +2,7 @@
 Delving deep into Engagement Prediction of Short Videos (ECCV 2024)
 
 Several sample frames of short-form videos dataset:
-<center><img src="figures/samples.png "width="90%"></center>
+<center><img src="figures/samples.png "width="70%"></center>
 
 **Abstract**: Understanding and modeling the popularity of User Generated Content (UGC) short videos on social media platforms presents a critical challenge with broad implications for content creators and recommendation systems. This study delves deep into the intricacies of predicting engagement for newly published videos with limited user interactions. Surprisingly, our findings reveal that Mean Opinion Scores from previous video quality assessment datasets do not strongly correlate with video engagement levels.
 To address this, we introduce a substantial dataset comprising 90,000 real-world UGC short videos from Snapchat. 
@@ -13,10 +13,10 @@ Comprehensive multi-modal features, including visual content, background music, 
 
 ### Key Metrics
 we propose two metrics: normalized average watch percentage (NAWP) and engagement continuation rate (ECR). We visualize their distritbuion of short videos of different categories in the following.
-<center><img src="figures/distributions.png "width="90%"></center>
+<center><img src="figures/distributions.png "width="70%"></center>
 
 ### Multi-modal features
-<center><img src="figures/multi-modal.png "width="90%"></center>
+<center><img src="figures/multi-modal.png "width="70%"></center>
 
 ### Citation
 If our work is useful for your research, please consider citing:
