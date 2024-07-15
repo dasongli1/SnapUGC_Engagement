@@ -11,8 +11,12 @@ Comprehensive multi-modal features, including visual content, background music, 
 
 **Keywords**: Engagement Prediction, Short-form Videos
 
-### we propose two metrics: normalized average watch percentage (NAWP) and engagement continuation rate (ECR). We visualize their distritbuion of short videos of different categories in the following.
+### Key Metrics
+we propose two metrics: normalized average watch percentage (NAWP) and engagement continuation rate (ECR). We visualize their distritbuion of short videos of different categories in the following.
 <center><img src="figures/distributions.png "width="90%"></center>
+
+### Multi-modal features
+<center><img src="figures/multi-modal.png "width="90%"></center>
 
 ### Citation
 If our work is useful for your research, please consider citing:
