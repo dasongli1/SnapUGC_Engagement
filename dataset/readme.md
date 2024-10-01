@@ -2,7 +2,7 @@
 ### File Content: id, video_len, ECR, NAWP, Title, Description, Link.
 
 ### Download link:
-[train set](https://drive.google.com/file/d/1a-FXgabg_Bv3oLKxLUwD83eaUZ4lgo56/view?usp=share_link), [test set](https://drive.google.com/file/d/1wO_WheJMmFH5V0vUjxywAtt0x9eBQe0j/view?usp=share_link)
+[train set](https://drive.google.com/file/d/1SmVf8abRS3xdaWtGh4fphmMv3OtzAVUM/view?usp=share_link), [test set](https://drive.google.com/file/d/1bfqHA7yqjEth8SCQgS0AL1AefNQffyxn/view?usp=share_link)
 
 Several sample frames of short-form videos dataset:
 <center><img src="../figures/samples.png "width="70%"></center>
