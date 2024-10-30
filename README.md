@@ -1,5 +1,5 @@
 # SnapUGC_Engagement
-Delving deep into Engagement Prediction of Short Videos (ECCV 2024)
+Delving deep into Engagement Prediction of Short Videos (ECCV 2024) [paper](https://www.ecva.net/papers/eccv_2024/papers_ECCV/papers/07122.pdf)
 
 Several sample frames of short-form videos dataset:
 <center><img src="figures/samples.png "width="70%"></center>
