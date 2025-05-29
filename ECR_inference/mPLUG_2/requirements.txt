@@ -1,0 +1,7 @@
+transformers==4.14.1
+timm==0.4.9
+decord
+ftfy
+oss2
+more_itertools
+colorlog

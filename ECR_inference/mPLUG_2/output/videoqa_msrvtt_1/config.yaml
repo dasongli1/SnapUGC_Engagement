@@ -1,0 +1,39 @@
+accum_steps: 2
+add_object: false
+alpha: 0.4
+batch_size_test: 1
+batch_size_train: 1
+beam_size: 5
+bert_config: configs/config_bert_large_text.json
+clip_name: ViT-L-14
+concat_last_layer: true
+distill: true
+embed_dim: 256
+eos: '[SEP]'
+image_res: 224
+k_test: 128
+max_length: 20
+min_length: 4
+model_num_frames: 16
+no_randaug: false
+num_workers: 24
+optimizer:
+  betas: [0.9, 0.999]
+  lr1: 2e-05
+  lr2: 2e-06
+  opt: adamW
+  weight_decay: 0.02
+prompt: a video of
+read_local_data: true
+schedular: {cooldown_epochs: 0, decay_rate: 1, epochs: 10, lr: 2e-05, min_lr: 1e-06,
+  sched: cosine_step, warmup_epochs: 200, warmup_lr: 1e-06}
+temporal_downsampling: false
+temporal_stride: 2
+test_file: dataset/test_out2_ours_1.json
+test_num_frames: 16
+text_decoder: bert-large-uncased
+text_encoder: bert-large-uncased
+train_file: dataset/test_out2_ours_1.json
+use_checkpoint: true
+video_root: /home/jupyter/snapdataset/0928/videos/videos_1/
+vision_width: 1024
